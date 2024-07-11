@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prabesh Khatiwada</h1>
-<h3 align="center">A passionate Software developer from Nepal</h3>
+<h3 align="center">A passionate Quality Assurance from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabeshkhatiwada29&label=Profile%20views&color=0e75b6&style=flat" alt="prabeshkhatiwada29" /> </p>
 
 - 🔭 I’m currently working on **30-days-Of-Coding**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JAVA / Postman API**
 
 - 💬 Ask me about **Logical Question**
 
